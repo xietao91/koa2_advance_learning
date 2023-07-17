@@ -13,6 +13,6 @@
     "koa": "^2.7.0",
     "koa-mysql-session": "^0.0.2",
     "koa-session-minimal": "^3.0.4",
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.0"
   }
 }
